@@ -1,0 +1,5 @@
+1) var na maioria das vezes vai ser global
+diferente do let que em qualquer escopo  fica como local.
+já a constante ela é global e não pode ser alterada.
+2) não é obrigatorio
+3)c
